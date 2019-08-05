@@ -1,0 +1,44 @@
+[
+    {
+        "product": "AJS",
+        "value": [
+            {
+                "sysName": "aaa",
+                "sysId": "VLG,VLS"
+            },
+            {
+                "sysName": "bbb",
+                "sysId": "VLG,VLS"
+            },
+            {
+                "sysName": "ccc",
+                "sysId": "VLG,VLS"
+            },
+            {
+                "sysName": "ddd",
+                "sysId": "VLG,VLS"
+            }
+        ]
+    },
+    {
+        "product": "BBD",
+        "value": [
+            {
+                "sysName": "aaa",
+                "sysId": "VLG,VLS"
+            },
+            {
+                "sysName": "bbb",
+                "sysId": "VLG,VLS"
+            },
+            {
+                "sysName": "ccc",
+                "sysId": "VLG,VLS"
+            },
+            {
+                "sysName": "ddd",
+                "sysId": "VLG,VLS"
+            }
+        ]
+    }
+]
