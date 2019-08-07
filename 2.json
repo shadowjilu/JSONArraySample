@@ -1,44 +1,18 @@
 [
-    {
-        "product": "AJS",
-        "value": [
-            {
-                "sysName": "aaa",
-                "sysId": "VLG,VLS"
-            },
-            {
-                "sysName": "bbb",
-                "sysId": "VLG,VLS"
-            },
-            {
-                "sysName": "ccc",
-                "sysId": "VLG,VLS"
-            },
-            {
-                "sysName": "ddd",
-                "sysId": "VLG,VLS"
-            }
-        ]
+    { 
+        "type": "F",
+        "values" : "aaa" 
     },
     {
-        "product": "BBD",
-        "value": [
-            {
-                "sysName": "aaa",
-                "sysId": "VLG,VLS"
-            },
-            {
-                "sysName": "bbb",
-                "sysId": "VLG,VLS"
-            },
-            {
-                "sysName": "ccc",
-                "sysId": "VLG,VLS"
-            },
-            {
-                "sysName": "ddd",
-                "sysId": "VLG,VLS"
-            }
-        ]
+        "type": "F",
+        "values" : "bbb"
+    },
+    {
+        "type": "H",
+        "values" : "ccc"
+    },
+    {
+        "type": "H",
+        "values" : "ddd"
     }
 ]
